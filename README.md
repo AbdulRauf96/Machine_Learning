@@ -36,6 +36,15 @@ Regression is a supervised learning approach in which the computer program learn
 The following are some of the regression algorithms:
 
 1. Linear Regression
-2. Logistic Regression <font color = "dodgerblue">(Classification) </font>
+2. Logistic Regression <font color = "dodgerblue">(Classification)</font>
 3. Polynomial Regression
-4. Support Vector Regression 
+4. Support Vector Regression
+
+
+<!-- ## Index for Notebooks
+
+The following is the index for the notebooks in this repository and in the order they have been created:
+
+| Notebook | Description | Link |
+| Basics of Machine Learning |  |  |
+|  |  |  | -->
