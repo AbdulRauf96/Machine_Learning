@@ -9,6 +9,8 @@ The broad areas of Machine Learning are:
 * Unsupervised Learning
 * Reinforcement Learning
 
+![](https://scikit-learn.org/stable/_static/ml_map.png)
+
 ## Supervised Learning
 
 Supervised learning is the machine learning task of inferring a function from labeled training data. The training data consist of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the training data to unseen situations in a "reasonable" way (see inductive bias).
@@ -39,12 +41,3 @@ The following are some of the regression algorithms:
 2. Logistic Regression <font color = "dodgerblue">(Classification)</font>
 3. Polynomial Regression
 4. Support Vector Regression
-
-
-<!-- ## Index for Notebooks
-
-The following is the index for the notebooks in this repository and in the order they have been created:
-
-| Notebook | Description | Link |
-| Basics of Machine Learning |  |  |
-|  |  |  | -->
